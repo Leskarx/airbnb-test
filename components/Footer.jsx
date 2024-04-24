@@ -8,7 +8,7 @@ function Footer() {
                         <h5 className="font-bold">ABOUT</h5>
                         <p>How Airbnb Works</p>
                         <p>Newsroom</p>
-                        <p>Airbnb 2021</p>
+                        <p>Airbnb 2024</p>
                         <p>Investors</p>
                         <p>Airbnb Plus</p>
                     </div>
@@ -30,7 +30,6 @@ function Footer() {
                     </div>
                     <div className="space-y-3 text-gray-800">
                         <h5 className="font-bold">SUPPORT</h5>
-                        <p>Our COVID-19 Response</p>
                         <p>Help Centre</p>
                         <p>Cancellation options</p>
                         <p>Neighbourhood Support</p>
@@ -40,7 +39,7 @@ function Footer() {
                 </div>
                 <hr />
                 <p className="text-center text-xl p-5 font-medium">
-                    Design & Developed by <a href="https://ak-portfolio.vercel.app/" target="_blank" rel="noreferrer" className="text-red-400">Gouri Shankar</a> <br className="sm:hidden" /> &copy; 2021 All right reserved
+                    Design & Developed by <a href="https://leskar.vercel.app/" target="_blank" rel="noreferrer" className="text-red-400">Gouri Shankar</a> <br className="sm:hidden" /> &copy; 2024 All right reserved
                 </p>
 
             </div>
